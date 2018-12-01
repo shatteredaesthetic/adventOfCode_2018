@@ -1,0 +1,11 @@
+{
+  "name": "advent_2018",
+  "version": "1.0.0",
+  "description": "code for the Advent of Code 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Polhemus <shatteredaesthetic@gmail.com>",
+  "license": "ISC"
+}
